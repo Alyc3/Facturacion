@@ -3,16 +3,6 @@ import java.util.List;
 
 public class Cliente extends Persona{
 
-   /* private List<Factura>facturaList;
-    private Direccion direccion;
-
-    public List<Factura>getFacturaList(){
-        return facturaList;
-    }
-
-    public void setFacturaList(List<Factura> facturaList) {
-        this.facturaList = facturaList;
-    }*/
    private List<Factura> facturaList;
     private Direccion direccion;
 
